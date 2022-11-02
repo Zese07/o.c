@@ -21,6 +21,7 @@ A C++ program that uses open and close symbols to print characters and numbers.
 
 ## Usage:
 #### To start:
+- Run o.c.cpp file.
 - ```1``` To start Words to Symbols.
 - ```2``` To start Symbols to Words.
 #### Words to Symbols:
