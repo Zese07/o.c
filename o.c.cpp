@@ -58,16 +58,14 @@ void stow(){
 }
 
 int main(){
-	int wors;
-	
-	std::cout << "     {[<o.c>]}\n++++++++++++++++++++\nWords to Symbols: [1]\nSymbols to Words: [2]\n++++++++++++++++++++\nChoice: ";
+	std::string wors;
+
+	std::cout << "< ";
 	std::cin >> wors;
-	std::cout << "++++++++++++++++++++" << std::endl;
-	
-	switch(wors){
-		case 1: wtos(); break;
-		case 2: stow(); break;
-		default: std::cout << "You are supposed to choose between 1 and 2."; break;
-	}	
+
+	if(wors == "<."){ wtos();
+	}else if(wors == "<<."){ stow();
+	}else if(wors == "1" || wors == "2"){ std::cout << "> Do it in symbols.";
+    	}else{ std::cout << "> 1 or 2."; }
     return 0;
 }
