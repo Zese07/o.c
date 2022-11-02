@@ -19,11 +19,16 @@ A C++ program that uses open and close symbols to print characters and numbers.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 | C/N | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 | _ | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
 
+## Terminal Symbols:
+- ```<```: Input to start the program.
+- ```.```: Input for the words and symbols.
+- ```>```: Ouput of the program.
+
 ## Usage:
 #### To start:
 - Run o.c.cpp file.
-- ```1``` To start Words to Symbols.
-- ```2``` To start Symbols to Words.
+- ```1```: To start Words to Symbols.
+- ```2```: To start Symbols to Words.
 #### Words to Symbols:
 If input is:
 ```
