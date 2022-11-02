@@ -60,7 +60,7 @@ void stow(){
 int main(){
 	int wors;
 	
-	std::cout << "     {[<o.c>]}\n++++++++++++++++++++\nWords to Symbol: [1]\nSymbol to Words: [2]\n++++++++++++++++++++\nChoice: ";
+	std::cout << "     {[<o.c>]}\n++++++++++++++++++++\nWords to Symbols: [1]\nSymbols to Words: [2]\n++++++++++++++++++++\nChoice: ";
 	std::cin >> wors;
 	std::cout << "++++++++++++++++++++" << std::endl;
 	
