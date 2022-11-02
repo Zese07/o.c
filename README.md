@@ -1,5 +1,5 @@
 # ({[<o.c>]})
-A program that uses open and close symbols to print characters and numbers.
+A C++ program that uses open and close symbols to print characters and numbers.
 
 ## Symbols:
 | Symbols | Value |
