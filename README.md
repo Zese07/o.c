@@ -29,39 +29,39 @@ A C++ program that uses open and close symbols to print characters and numbers.
 - Run o.c.cpp file.
 - ```1```: To start Words to Symbols.
 - ```2```: To start Symbols to Words.
-#### Words to Symbols:
-If input is:
+#### Words to Symbols: ```1```
+If ```.``` is:
 ```
 Hello_World
 ```
-Then output is:
+Then ```>``` is:
 ```
 }}}>>>>.].}>>.}>>.}]..}}}}]>>>>.}].}]>>>.}>>.>>>>.
 ```
 ---
-If input is:
+If ```.``` is:
 ```
 a1_B2_c3_D4_e5
 ```
-Then output is:
+Then ```>``` is:
 ```
 >.<<..}}]>>>.<<<..>>>.<<<<..}}}.[..].[<.
 ```
-#### Symbols to Words:
-If input is:
+#### Symbols to Words: ```2```
+If ```.``` is:
 ```
 }}}>>>>.].}>>.}>>.}]..}}}}]>>>>.}].}]>>>.}>>.>>>>.
 ```
-Then output is:
+Then ```>``` is:
 ```
 Hello World
 ```
 ---
-If input is:
+If ```.``` is:
 ```
 >.<<..}}]>>>.<<<..>>>.<<<<..}}}.[..].[<.
 ```
-Then output is:
+Then ```>``` is:
 ```
 a1 B2 c3 D4 e5
 ```
